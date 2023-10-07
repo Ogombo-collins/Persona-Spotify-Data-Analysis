@@ -1,4 +1,4 @@
-# Persona-Spotify-Data-Analysis-Project
+# Personal-Spotify-Data-Analysis-Project
 The project analysing spotify dataset. 
 
 ## Exploratory Data Analysis of the spotify_df.
